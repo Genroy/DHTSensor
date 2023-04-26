@@ -1,0 +1,2 @@
+ใช้โปรแกรม Arduino ในการเปิดไฟล์ โดยดาวน์โหลดที่ 
+https://www.arduino.cc/en/main/software

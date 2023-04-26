@@ -1,0 +1,10 @@
+ใช้ QR code ในการ Colne Project สำหรับต่อยอดหรือเพิ่มฟังชั่นต่างๆ
+
+Get Link
+Link WebPage https://www.blynk.cc/
+
+Download for Android
+https://www.blynk.cc/getting-started/
+
+Download for IOS
+https://itunes.apple.com/us/app/blynk-iot-for-arduino-esp32/id808760481?mt=8
